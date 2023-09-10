@@ -1,0 +1,16 @@
+<svg width="700" height="700" viewBox="0 0 700 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_161_97)">
+<rect width="100" height="700" fill="#92E6A7"/>
+<rect x="600" width="100" height="700" fill="#1A7431"/>
+<rect x="500" width="100" height="700" fill="#208B3A"/>
+<rect x="400" width="100" height="700" fill="#25A244"/>
+<rect x="300" width="100" height="700" fill="#2DC653"/>
+<rect x="200" width="100" height="700" fill="#4AD66D"/>
+<rect x="100" width="100" height="700" fill="#6EDE8A"/>
+</g>
+<defs>
+<clipPath id="clip0_161_97">
+<rect width="700" height="700" rx="200" fill="white"/>
+</clipPath>
+</defs>
+</svg>
