@@ -1,0 +1,1 @@
+https://mashable.com/archive/steve-jobs-letter-joker#XxFyZ6MJOqqC
