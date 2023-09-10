@@ -1,0 +1,37 @@
+/* Coolors Exported Palette - https://coolors.co/92e6a7-6ede8a-4ad66d-2dc653-25a244-208b3a-1a7431 */
+
+- Tailwind
+
+{ 'celadon': { DEFAULT: '#92e6a7', 100: '#0e3e1a', 200: '#1c7b34', 300: '#2ab94e', 400: '#55d976', 500: '#92e6a7', 600: '#a9ebb9', 700: '#bef0cb', 800: '#d4f5dc', 900: '#e9faee' }, 'light_green': { DEFAULT: '#6ede8a', 100: '#0c3617', 200: '#196c2d', 300: '#25a244', 400: '#37d25e', 500: '#6ede8a', 600: '#8be5a1', 700: '#a8ebb9', 800: '#c5f2d0', 900: '#e2f8e8' }, 'malachite': { DEFAULT: '#4ad66d', 100: '#0b2f14', 200: '#155d27', 300: '#208c3b', 400: '#2aba4e', 500: '#4ad66d', 600: '#6dde89', 700: '#91e6a6', 800: '#b6eec4', 900: '#daf7e1' }, 'dark_pastel_green': { DEFAULT: '#2dc653', 100: '#092811', 200: '#125022', 300: '#1b7832', 400: '#24a043', 500: '#2dc653', 600: '#52d874', 700: '#7de296', 800: '#a9ebb9', 900: '#d4f5dc' }, 'pigment_green': { DEFAULT: '#25a244', 100: '#07200e', 200: '#0f411b', 300: '#166129', 400: '#1d8236', 500: '#25a244', 600: '#34d15b', 700: '#67dc84', 800: '#9ae8ad', 900: '#ccf3d6' }, 'forest_green': { DEFAULT: '#208b3a', 100: '#061c0c', 200: '#0d3918', 300: '#135524', 400: '#1a7130', 500: '#208b3a', 600: '#2dc452', 700: '#5ada7a', 800: '#91e6a6', 900: '#c8f3d3' }, 'dark_spring_green': { DEFAULT: '#1a7431', 100: '#05170a', 200: '#0b2f14', 300: '#10461d', 400: '#155d27', 500: '#1a7431', 600: '#28b04a', 700: '#4bd66e', 800: '#87e49e', 900: '#c3f1cf' } }
+
+- CSV
+
+92e6a7,6ede8a,4ad66d,2dc653,25a244,208b3a,1a7431
+
+- With #
+
+#92e6a7, #6ede8a, #4ad66d, #2dc653, #25a244, #208b3a, #1a7431
+
+- Array
+
+["92e6a7","6ede8a","4ad66d","2dc653","25a244","208b3a","1a7431"]
+
+- Object
+
+{"Celadon":"92e6a7","Light green":"6ede8a","Malachite":"4ad66d","Dark pastel green":"2dc653","Pigment green":"25a244","Forest green":"208b3a","Dark spring green":"1a7431"}
+
+- Extended Array
+
+[{"name":"Celadon","hex":"92e6a7","rgb":[146,230,167],"cmyk":[37,0,27,10],"hsb":[135,37,90],"hsl":[135,63,74],"lab":[85,-38,23]},{"name":"Light green","hex":"6ede8a","rgb":[110,222,138],"cmyk":[50,0,38,13],"hsb":[135,50,87],"hsl":[135,63,65],"lab":[80,-50,32]},{"name":"Malachite","hex":"4ad66d","rgb":[74,214,109],"cmyk":[65,0,49,16],"hsb":[135,65,84],"hsl":[135,63,56],"lab":[76,-60,41]},{"name":"Dark pastel green","hex":"2dc653","rgb":[45,198,83],"cmyk":[77,0,58,22],"hsb":[135,77,78],"hsl":[135,63,48],"lab":[71,-62,46]},{"name":"Pigment green","hex":"25a244","rgb":[37,162,68],"cmyk":[77,0,58,36],"hsb":[135,77,64],"hsl":[135,63,39],"lab":[59,-53,39]},{"name":"Forest green","hex":"208b3a","rgb":[32,139,58],"cmyk":[77,0,58,45],"hsb":[135,77,55],"hsl":[135,63,34],"lab":[51,-47,35]},{"name":"Dark spring green","hex":"1a7431","rgb":[26,116,49],"cmyk":[78,0,58,55],"hsb":[135,78,45],"hsl":[135,63,28],"lab":[43,-41,29]}]
+
+- XML
+
+<palette>
+  <color name="Celadon" hex="92e6a7" r="146" g="230" b="167" />
+  <color name="Light green" hex="6ede8a" r="110" g="222" b="138" />
+  <color name="Malachite" hex="4ad66d" r="74" g="214" b="109" />
+  <color name="Dark pastel green" hex="2dc653" r="45" g="198" b="83" />
+  <color name="Pigment green" hex="25a244" r="37" g="162" b="68" />
+  <color name="Forest green" hex="208b3a" r="32" g="139" b="58" />
+  <color name="Dark spring green" hex="1a7431" r="26" g="116" b="49" />
+</palette>
